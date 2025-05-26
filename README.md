@@ -11,3 +11,8 @@ A new Flutter project.
 ### lib/model/: contains service_model.dart file.
 ### lib/view_model/: contains the service_view_model.dart file.
 ### lib/view/: contains home_screen.dart, music_service_screen and simple_new_screen files
+
+
+## Result:
+https://github.com/user-attachments/assets/d2d21553-374d-4fdc-aa70-e1e2daffb0e4
+
